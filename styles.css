@@ -336,7 +336,7 @@ img[src*="church-svgrepo-com (1).svg"] {
 }
 
 
-@media(max-width: 450px) {
+@media(max-width: 768px) {
 
 
 .welcome-to-church {
@@ -532,28 +532,7 @@ img[src*="1752247436444.jpg"] { /*two lovely girls with a smile*/
 }
 
 
-
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 .upcoming-event {
@@ -629,7 +608,7 @@ img[src*="church-svgrepo-com (1).svg"] {
 }
 
 
-@media(max-width: 450px) {
+@media(max-width: 576px) {
 
 
 .welcome-to-church {
@@ -809,10 +788,6 @@ img[src*="1752247436444.jpg"] { /*two lovely girls with a smile*/
 .upcoming-event h1 {
     color: #edf2f4;
 }
-
-
-
-
 
 
 }
