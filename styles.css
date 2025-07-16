@@ -131,6 +131,12 @@ h2 strong {
     color: #FFEB00;
 }
 
+p strong {
+    color: #D99D81;
+}
+
+
+
 
 .navigation-links {
     margin-left: auto;
