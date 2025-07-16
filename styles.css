@@ -1497,7 +1497,7 @@ img[src*="church-svgrepo-com (1).svg"] {
 
      .reconnect {
         padding: 8px 12px;
-        font-size: 0.5rem;
+        font-size: 0.65rem;
     }
 
     img[src*="1752247436444.jpg"] { /*two lovely girls with a smile*/
@@ -1525,9 +1525,9 @@ img[src*="church-svgrepo-com (1).svg"] {
 
 
     .getconnected p {
-        font-size: 0.9rem;
+        font-size: 1rem;
         text-align: justify;
-        padding: 0px 15px 0px 15px;
+        padding: 6px 20px 0px 20px;
     }
 
     .service-details {
@@ -1539,7 +1539,7 @@ img[src*="church-svgrepo-com (1).svg"] {
         justify-content: center;
         align-items: flex-start;
         flex-direction: column;
-        padding: 0px 15px 0px 15px;
+        padding: 0px 20px 0px 20px;
     }
 
     .service-time-and-details {
