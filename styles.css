@@ -131,9 +131,7 @@ h2 strong {
     color: #FFEB00;
 }
 
-p strong {
-    color: #E82561;
-}
+
 
 
 
@@ -230,12 +228,6 @@ ul {
     text-align: left;
     line-height: 1.5;
 }
-
-
-strong .jesus {
-    color: #FFDBDB;
-}
-
 
 
 
@@ -1545,13 +1537,6 @@ img[src*="church-svgrepo-com (1).svg"] {
 
 }
 
-
-
-
-
-
-
-
 @media (max-width: 375px) {
 
      .church-logo-and-nav-links {
@@ -1827,7 +1812,6 @@ img[src*="church-svgrepo-com (1).svg"] {
     padding: 80px;
 
 }
-
     .getconnected {
         margin: 0px;
         padding: 10px;
