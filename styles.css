@@ -115,8 +115,10 @@ img[src*="cropped-assembly-of-god-logo-png-7-1.png"] { /* styling for the logo i
 }
 
 
-.header-size {
+.header-size strong {
     font-size: 1.3rem;
+    color: #065084;
+
 }
 
 
@@ -127,12 +129,8 @@ img[src*="cropped-assembly-of-god-logo-png-7-1.png"] { /* styling for the logo i
 /* end of supplementary*/
 
 
-h2 strong {
-    color: #FFEB00;
-}
-
-p strong {
-    color: #E82561;
+.lora-font-900 strong {
+    color: #FFCB61;
 }
 
 
@@ -231,10 +229,6 @@ ul {
     line-height: 1.5;
 }
 
-
-strong .jesus {
-    color: #FFDBDB;
-}
 
 
 
