@@ -98,7 +98,7 @@ img[src*="cropped-assembly-of-god-logo-png-7-1.png"] { /* styling for the logo i
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    padding: 35px 0px 20px 100px;
+    padding: 35px 0px 20px 40px;
 }
 
 
@@ -127,7 +127,7 @@ img[src*="cropped-assembly-of-god-logo-png-7-1.png"] { /* styling for the logo i
 /* end of supplementary*/
 
 
-.navigation-container strong {
+h2 strong {
     color: #FFEB00;
 }
 
@@ -1828,4 +1828,3 @@ img[src*="church-svgrepo-com (1).svg"] {
     }
 
 }
-
