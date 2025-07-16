@@ -4,6 +4,73 @@
     box-sizing: border-box; /* Added for better responsive control */
 }
 
+
+.roboto-font {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.lora-font-100 {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.lora-font-200 {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.lora-font-300 {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+
+.lora-font-400 {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lora-font-500 {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.lora-font-600 {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+
+.lora-font-900 {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
+
+
+
+
+
+
 /* Begining of stying for the body*/
 
 /*Navigation section*/
@@ -159,9 +226,11 @@ ul {
 }
 
 
-.welcome-to-church strong {
-    color: #FF9D23;
+strong .jesus {
+    color: #FFDBDB;
 }
+
+
 
 
 .title.seek-god {
@@ -214,8 +283,8 @@ End of navigation and hero section, upcoming join us on sunday section
     justify-content: center;
     align-items: center;
     gap: 60px;
-    margin: 100px;
-    padding: 100px;
+    margin: 80px;
+    padding: 90px;
     border: 2px solid black;
 }
 
@@ -231,7 +300,7 @@ End of navigation and hero section, upcoming join us on sunday section
 
 
 img[src*="1752247436444.jpg"] { /*two lovely girls with a smile*/
-    width: 700px;
+    width: 600px;
     height: 100%;
     border-radius: 250px 10px;
 
@@ -271,7 +340,7 @@ img[src*="1752247436444.jpg"] { /*two lovely girls with a smile*/
     justify-content: flex-start;
     align-items: center;
     margin-top: 50px ;
-    padding: 150px;
+    padding: 100px;
     line-height: 2.3;
     gap: 100px;
     background-color: #edf2f4;
@@ -1381,11 +1450,11 @@ img[src*="church-svgrepo-com (1).svg"] {
    
 
     img[src*="cropped-assembly-of-god-logo-png-7-1.png"] {
-        width: 30px;
+        width: 40px;
         padding-right: 5px;
     }
     .church-logo-side-text {
-        padding-left: 10px;
+        padding-left: 9px;
         border-left: 2px solid white;
     }
     .header-size {
