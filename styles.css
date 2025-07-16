@@ -1437,7 +1437,7 @@ img[src*="church-svgrepo-com (1).svg"] {
 @media (max-width: 375px) {
 
      .church-logo-and-nav-links {
-        padding: 45px 0px 10px 20px;
+        padding: 40px 0px 10px 20px;
         flex-wrap: wrap; /* Allow logo and text to wrap */
         justify-content: flex-start;
     }
@@ -1469,14 +1469,14 @@ img[src*="church-svgrepo-com (1).svg"] {
         width: 90%;
     }
     .welcome-to-church {
-        padding: 30px 10px 20px 10px;
+        padding: 150px 10px 20px 10px;
     }
     .title.seek-god {
-        font-size: 1,5rem;
+        font-size: 1.5rem;
     }
     .welcome-to-church p {
         font-size: 1.1rem;
-        margin: 9px 10px 10px 10px;
+        margin: 19px 10px 10px 10px;
         padding: 0px 10px 0px 10px ;
     }
 
@@ -1492,7 +1492,7 @@ img[src*="church-svgrepo-com (1).svg"] {
 
     .plan-a-visit  {
         padding: 9px 20px;
-        font-size: 0.5rem;
+        font-size: 0.6rem;
     }
 
      .reconnect {
@@ -1505,11 +1505,12 @@ img[src*="church-svgrepo-com (1).svg"] {
     height: 100%;
     border-radius: 0px;
     padding: 0px;
+    margin-top: 20px;
 
 }
 
     .getconnected {
-        margin: 0px;
+        margin: 15px;
         padding: 3px;
         display: flex;
         flex-direction: column-reverse;
